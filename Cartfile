@@ -1,0 +1,4 @@
+github "Alamofire/Alamofire" ~> 4.5
+github "SwiftyJSON/SwiftyJSON"
+github "receipt-bank/StatefulViewController" "master"
+github "kean/Nuke" ~> 5.0

@@ -1,0 +1,9 @@
+{
+  "commitish" : "c94f47f542a3b1ddd04847492397db5bce3d31e5",
+  "iOS" : [
+    {
+      "name" : "StatefulViewController",
+      "hash" : "09147452e48a53da02ad43c1bc3ac07ecb0691c7dbfc2fe7fd813bd3ef944b7c"
+    }
+  ]
+}
